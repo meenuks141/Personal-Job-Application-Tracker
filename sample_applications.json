@@ -1,0 +1,50 @@
+[
+    {
+        "company": "Google",
+        "role": "Data Analyst Intern",
+        "status": "Applied",
+        "application_date": "2026-10-20"
+    },
+    {
+        "company": "Microsoft",
+        "role": "Software Engineer Intern",
+        "status": "Interview",
+        "application_date": "2026-10-18"
+    },
+    {
+        "company": "TCS",
+        "role": "Python Developer Intern",
+        "status": "Rejected",
+        "application_date": "2026-10-12"
+    },
+    {
+        "company": "Zoho",
+        "role": "Data Analyst Intern",
+        "status": "Selected",
+        "application_date": "2026-10-15"
+    },
+    {
+        "company": "Amazon",
+        "role": "Cloud Support Intern",
+        "status": "Applied",
+        "application_date": "2026-10-25"
+    },
+    {
+        "company": "Infosys",
+        "role": "System Engineer Intern",
+        "status": "Interview",
+        "application_date": "2026-10-27"
+    },
+    {
+        "company": "NVIDIA",
+        "role": "Python Developer Intern",
+        "status": "Applied",
+        "application_date": "2026-10-30"
+    },
+    {
+        "company": "NVIDIA",
+        "role": "Python Developer Intern",
+        "status": "Applied",
+        "application_date": "2026-10-30"
+    }
+]

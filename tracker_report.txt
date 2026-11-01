@@ -1,0 +1,25 @@
+PERSONAL JOB APPLICATION TRACKER
+========================================
+
+ALL APPLICATIONS
+----------------------------------------
+1. Google | Data Analyst Intern | Applied | 2026-10-20
+2. Microsoft | Software Engineer Intern | Interview | 2026-10-18
+3. TCS | Python Developer Intern | Rejected | 2026-10-12
+4. Zoho | Data Analyst Intern | Selected | 2026-10-15
+5. Amazon | Cloud Support Intern | Applied | 2026-10-25
+6. Infosys | System Engineer Intern | Interview | 2026-10-27
+7. NVIDIA | Python Developer Intern | Applied | 2026-10-30
+8. NVIDIA | Python Developer Intern | Applied | 2026-10-30
+
+APPLICATION SUMMARY
+----------------------------------------
+Applied: 4
+Interview: 2
+Selected: 1
+Rejected: 1
+
+CURRENT INTERVIEWS
+----------------------------------------
+Microsoft - Software Engineer Intern
+Infosys - System Engineer Intern
